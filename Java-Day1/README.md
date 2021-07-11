@@ -1,14 +1,14 @@
 Assignment 1 Output :<br>
-![](images/asgn1.PNG)
+![](outputs/asgn1.PNG)
 <br>
 
 Assignment 2 Output :<br>
-![](images/asgn2.PNG)
+![](outputs/asgn2.PNG)
 <br>
 
 Assignment 3 Ouptut :<br>
-![](images/asgn3.PNG)
+![](outputs/asgn3.PNG)
 <br>
 
 Assignment 5 Output :<br>
-![](images/asgn5.JPNG)
+![](outputs/asgn5.JPNG)
